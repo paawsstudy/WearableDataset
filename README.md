@@ -1,10 +1,10 @@
-# The PAAWS study
+# The P study
 
-Insert some words about paaws study and why this is important
+Insert some words about p study and why this is important
 
 ## Dataset download
 
-Please download the dataset (~84Gb) here: [link to Google Drive](https://drive.google.com/drive/folders/1OJZZ6czL88bJDj321T4Oi7WS0ZI-AvSp)
+Please download the dataset (~98Gb) here: [link to Google Drive - to add new link once done](https://drive.google.com/)
 
 ## Codebook
 In the PAAWS study, there are three seperate protocols. They are the free living protocol (FL), lab and simulated free living protocol (SimFL+Lab), and the sleep protocol.
