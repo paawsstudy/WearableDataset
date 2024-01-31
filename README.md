@@ -1,13 +1,12 @@
 # The P study
 
-Insert some words about p study and why this is important
 
 ## Dataset download
 
-Please download the dataset (~98Gb) here: [link to Google Drive - to add new link once done](https://drive.google.com/)
+Please download the dataset (~98Gb) here: [link to Google Drive](https://drive.google.com/drive/folders/1HbRyf9cuWBf7Odu2W0WLVOQc6Jiny8dy)
 
 ## Codebook
-In the PAAWS study, there are three seperate protocols. They are the free living protocol (FL), lab and simulated free living protocol (SimFL+Lab), and the sleep protocol.
+In the P study, there are three seperate protocols. They are the free living protocol (FL), lab and simulated free living protocol (SimFL+Lab), and the sleep protocol.
 Each of these protocol is detailed below, as well as their respective codebool
 
 ### Free Living protocol 
@@ -18,3 +17,6 @@ Please find the details of the [data collection protocol](https://docs.google.co
 
 ### Sleep protocol 
 Please find the details of the [data collection protocol](https://docs.google.com/document/d/e/2PACX-1vQzi2QLSaTxd-cmOkqaO5Pqi7Z8f35_LtQCdUzKIkQwxqC-1XPcHX_VCdkPoLZdHUMa_-ZjMSCkyINV/pub) and [codebook](https://docs.google.com/document/d/e/2PACX-1vThL6Ik1onU5j4t4JWYeD9ef9fYb4vl0mBs8sE-LWOAmSdBFt7Hp-arS1vDRXKP5Laubv8a5hny8pTJ/pub).
+
+### Some example clips from the study 
+These clips are extracted from the data recorded from a member of the research team, following the real study protocol. You could find it [here](https://drive.google.com/drive/folders/1c8UV70_otYY3b1IGGNDUjAYcVzJx53HM)
