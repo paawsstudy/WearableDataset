@@ -20,5 +20,8 @@ Note that in the codebook, we refer to an example code to read the data. Please 
 ### Sleep protocol 
 Please find the details of the [data collection protocol](https://docs.google.com/document/d/e/2PACX-1vQzi2QLSaTxd-cmOkqaO5Pqi7Z8f35_LtQCdUzKIkQwxqC-1XPcHX_VCdkPoLZdHUMa_-ZjMSCkyINV/pub) and [codebook](https://docs.google.com/document/d/e/2PACX-1vThL6Ik1onU5j4t4JWYeD9ef9fYb4vl0mBs8sE-LWOAmSdBFt7Hp-arS1vDRXKP5Laubv8a5hny8pTJ/pub).
 
+### Benchmarking code 
+We release the model we described in section 4 of the paper here [Benchmarking](benchmarking)
+
 ### Some example clips from the study 
 These clips are extracted from the data recorded from a member of the research team, following the real study protocol. You could find it [here](https://drive.google.com/drive/folders/1c8UV70_otYY3b1IGGNDUjAYcVzJx53HM)
