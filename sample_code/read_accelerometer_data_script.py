@@ -168,15 +168,4 @@ if __name__ == "__main__":
     input_label = sys.argv[2]
     output_actigraph = sys.argv[3]
 
-    # Read actigraph and label data
-    _, actigraph = read_data(input_actigraph)
-    label = pd.read_csv(input_label, parse_dates=["START_TIME", "STOP_TIME"])
-
-    # Map activity types to activity classes
-    label["ACTIVITY_CLASS"] = [mapping.get(x, None) for x in label["PA_TYPE"]]
-
-    # Add labels to actigraph data
-    actigraph = add_label_to_actigraph(actigraph, label)
-
-    # Save the combined data to a CSV file
-    actigraph.to_csv(output_actigraph, index=False)
+    data_to_csv(input_actigraph, input_label, output_actigraph)
